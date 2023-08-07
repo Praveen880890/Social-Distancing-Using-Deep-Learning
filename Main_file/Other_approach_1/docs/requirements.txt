@@ -1,0 +1,9 @@
+ipython==8.14.0
+matplotlib==3.7.1
+numpy==1.25.1
+opencv_contrib_python==4.6.0.66
+opencv_python==4.8.0.74
+openvino==2023.0.0
+openvino_dev==2023.0.0
+Requests==2.31.0
+tqdm==4.65.0
