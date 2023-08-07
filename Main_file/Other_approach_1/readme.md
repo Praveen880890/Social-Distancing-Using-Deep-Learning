@@ -1,6 +1,4 @@
-# intelunnati_detroit
-
-## Table of Contents
+# Table of Contents
 
 - [Description](#description)
 - [Features](#features)
@@ -33,14 +31,14 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 1. Clone the project repository from GitHub using git cli (*if git command is showing error you have to download git from* [git_download_website](https://git-scm.com/downloads))
     ```
-    git clone https://github.com/saikumar9949/intelunnati_detroit.git
+    git clone https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning.git
     
     ```
 
-2. Now change the Directory to *"Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"*.
+2. Now change the Directory to *Main_file/Other_approach_1*.
     
     ```
-    cd "Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"
+    cd Main_file/Other_approach_1
     
     ```
 
@@ -73,14 +71,14 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 1. Clone the project repository from GitHub using git cli (*if git command is showing error you have to download git from* [git_download_website](https://git-scm.com/downloads))
     ```
-    git clone https://github.com/saikumar9949/intelunnati_detroit.git
+    git clone https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning.git
     
     ```
 
-2. Now change the Directory to *"Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"*.
+2. Now change the Directory to *Main_file/Other_approach_1*.
     
     ```
-    cd "Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"
+    cd Main_file/Other_approach_1
     
     ```
 
@@ -138,7 +136,8 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 ## Results
 
 
-https://github.com/saikumar9949/intelunnati_detroit/assets/108319978/b8e9b89a-6c0b-4dc0-8fd5-b0a8aa4ddd59
+
+
 
 
 
