@@ -1,6 +1,4 @@
-# Other Approach 2
-
-## Table of Contents
+# Table of Contents
 
 - [Description](#description)
 - [Features](#features)
@@ -33,15 +31,14 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 1. Clone the project repository from GitHub using git cli (*if git command is showing error you have to download git from* [git_download_website](https://git-scm.com/downloads))
     ```
-    git clone https://github.com/saikumar9949/intelunnati_detroit.git
+    git clone https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning.git
     
     ```
 
-2. Now change the Directory to *"Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"/Other_approach_2*.
+2. Now change the Directory to *Main_file/Other_approach_2*.
     
     ```
-    cd "Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"
-    cd Other_approach_2
+    cd Main_file/Other_approach_2
     
     ```
 
@@ -74,16 +71,14 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 1. Clone the project repository from GitHub using git cli (*if git command is showing error you have to download git from* [git_download_website](https://git-scm.com/downloads))
     ```
-    git clone https://github.com/saikumar9949/intelunnati_detroit.git
+    git clone https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning.git
     
     ```
 
-2. Now change the Directory to *"Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"/Other_approach_2
-*.
+2. Now change the Directory to *Main/Other_approach_2*.
     
     ```
-    cd "Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"
-    cd Other_approach_2
+    cd Main_file/Other_approach_2
     
     ```
 
@@ -132,7 +127,8 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 ## Results
 
 
-https://github.com/saikumar9949/intelunnati_detroit/assets/108319978/ad6c83a8-a876-4930-87ea-f5db1f7479d9
+
+
 
 
 

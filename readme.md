@@ -32,14 +32,14 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 1. Clone the project repository from GitHub using git cli (*if git command is showing error you have to download git from* [git_download_website](https://git-scm.com/downloads))
     ```
-    git clone https://github.com/saikumar9949/intelunnati_detroit.git
+    git clone https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning.git
     
     ```
 
-2. Now change the Directory to *"Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"*.
+2. Now change the Directory to *Main_file*.
     
     ```
-    cd "Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"
+    cd Main_file
     
     ```
 
@@ -72,14 +72,14 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 1. Clone the project repository from GitHub using git cli (*if git command is showing error you have to download git from* [git_download_website](https://git-scm.com/downloads))
     ```
-    git clone https://github.com/saikumar9949/intelunnati_detroit.git
+    git clone https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning.git
     
     ```
 
-2. Now change the Directory to *"Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"*.
+2. Now change the Directory to *Main_file*.
     
     ```
-    cd "Detroit_MallareddyCollegeofEngneering&Technology_Social Distancing project using Computer Vision and Deep Learning"
+    cd Main_file
     
     ```
 
@@ -137,9 +137,6 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 ## Results 
 
 
-
-
-https://github.com/saikumar9949/intelunnati_detroit/assets/108319978/9841e1d7-13da-442a-b7a9-b7cb978b1cea
 
 
 
