@@ -1,6 +1,4 @@
-# intelunnati_detroit
-
-## Table of Contents
+# Table of Contents
 
 - [Description](#description)
 - [Features](#features)
