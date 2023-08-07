@@ -138,7 +138,8 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 
 
-https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning/assets/76040957/5a24a253-7ea6-4117-84dc-607586472d1a
+https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning/assets/76040957/cf7a11be-1030-434c-bb7a-80bcb85293b8
+
 
 
 
