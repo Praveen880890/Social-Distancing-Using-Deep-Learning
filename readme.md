@@ -142,8 +142,6 @@ https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning/assets/76
 
 
 
-
-
 ## Contact 
     - Email us --> s.praveenchowdarysureddy@gmail.com
                --> reddysaikumar931@gmail.com
